@@ -1,0 +1,38 @@
+{
+    "name":"Padala Rohit Kumar",
+    "phn":"7981118788",
+    "email":"padalarohitkumar@gmail.com",
+    "DOB":"31-01-1997",
+    "profession":"SOFT WARE DEVELOPER FRESHER",
+    "professionalskills":["Web Technologys","Python","Django","C lang"],
+    "personalskills":["Chess","Basketball","Browsing Net"],
+    "carrier":"I plan to achieve this career vision through one-on-one learning situations (teaching and coaching); creating and publishing empowering and uplifting web content (career college success wellness); and developing and leading inspiring workshops.",
+    "address":
+        {
+            "street":"20-5,Ram Nagar",
+            "mandal":"yellamanchili",
+            "dist":"Visakhapatnam",
+            "state":"Andhra Pradesh",
+            "pincode":"531055"
+        },
+    "EducationDetails":[
+        {
+         "sno":1,
+         "institute":"St Judes Engish Medium High School",
+         "percentage":8.5,
+         "duration":"2012-2013"
+        },
+        {
+         "sno":2,
+         "institute":"Narayana Jr College",
+         "percentage":9.1,
+         "duration":"2013-2015"
+        },
+        {
+         "sno":3,
+         "institute":"Pydah College of Engineering and Technology",
+         "percentage":7.1,
+         "duration":"2015-2019"
+        }
+       ]
+}
